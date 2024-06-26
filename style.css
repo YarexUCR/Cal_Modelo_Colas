@@ -6,3 +6,11 @@ body{
     filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#34cf77",endColorstr="#464141",GradientType=1);
 }
 
+td{
+    color: white;
+    font-size: 20px;
+}
+
+button{
+font-size: 50px;
+}
